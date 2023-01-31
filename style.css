@@ -1,6 +1,6 @@
 #topNav {
-  background: dimgray;
-  box-shadow: 0px 1px 10px 10px lightgray;
+  background: khaki;
+  box-shadow: 0px 1px 10px 10px dimgrey;
     /* offset-x | offset-y | blur-radius | spread-radius | color */
   height: auto;
   text-align: center;
